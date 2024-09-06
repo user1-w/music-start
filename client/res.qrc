@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>Register/register1 (1).jpg</file>
+        <file>Login/login1.jpg</file>
+        <file>Register/2.gif</file>
+        <file>Functionpic/like.gif</file>
+        <file>Functionpic/swall .gif</file>
+        <file>Functionpic/back.jpg</file>
+        <file>Functionpic/find.png</file>
+        <file>Functionpic/liked.png</file>
+        <file>Functionpic/unlike.png</file>
+        <file>Functionpic/pause.png</file>
+        <file>Functionpic/start.png</file>
+        <file>Functionpic/frontsong.png</file>
+        <file>Functionpic/nextsongs.png</file>
+        <file>Functionpic/back1.jpg</file>
+        <file>Functionpic/back2.jpg</file>
+        <file>Functionpic/back3.jpg</file>
+        <file>weather/city.txt</file>
+    </qresource>
+</RCC>

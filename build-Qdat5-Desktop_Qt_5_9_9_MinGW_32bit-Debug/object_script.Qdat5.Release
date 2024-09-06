@@ -1,0 +1,13 @@
+INPUT(
+./release\daili.o
+./release\form.o
+./release\function.o
+./release\main.o
+./release\mainwindow.o
+./release\weather.o
+./release\qrc_res.o
+./release\moc_form.o
+./release\moc_function.o
+./release\moc_mainwindow.o
+./release\moc_weather.o
+);
